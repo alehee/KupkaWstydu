@@ -1,0 +1,17 @@
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\bin\Debug\netstandard2.0\KW_XamarinForms.deps.json
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\bin\Debug\netstandard2.0\KW_XamarinForms.dll
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\bin\Debug\netstandard2.0\ref\KW_XamarinForms.dll
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\bin\Debug\netstandard2.0\KW_XamarinForms.pdb
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\KW_XamarinForms.csprojAssemblyReference.cache
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\KW_XamarinForms.AssemblyInfoInputs.cache
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\KW_XamarinForms.AssemblyInfo.cs
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\KW_XamarinForms.dll
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\ref\KW_XamarinForms.dll
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\KW_XamarinForms.pdb
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\Profile.xaml.g.cs
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\Highscore.xaml.g.cs
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\Author.xaml.g.cs
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\KW_XamarinForms.csproj.CoreCompileInputs.cache
+D:\Proj_Programming\Xamarin\KW_XamarinForms\KW_XamarinForms\KW_XamarinForms\obj\Debug\netstandard2.0\XamlC.stamp

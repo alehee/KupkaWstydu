@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="KW_XamarinForms.Author">
+
+    <StackLayout>
+        <BoxView BackgroundColor="#cc9966" ScaleY="2.5" ScaleX="20"/>
+        <Label Text="Autor Wstydu" FontSize="30" Margin="0,-30,0,0" VerticalTextAlignment="Center" VerticalOptions="Center" TextColor="#FFFFFF" HorizontalOptions="Center" HorizontalTextAlignment="Center" FontAttributes="Bold" FontFamily="Roboto" />
+
+        <Button Text="Wróć" FontSize="12" Margin="-260,10,0,0" CornerRadius="20" WidthRequest="100" HeightRequest="40" FontFamily="Roboto" VerticalOptions="Center" HorizontalOptions="Center" Clicked="ReturnButton_Clicked"/>
+
+        <Label Text="A U T O R   A P L I K A C J I" TextColor="#4d2600" FontSize="20" FontAttributes="Bold" Margin="0,50,0,0" WidthRequest="410" HeightRequest="40" FontFamily="Roboto" VerticalTextAlignment="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+        <Label Text="Aleksander Heese" TextColor="Gray" FontSize="30" Margin="0,20,0,0" WidthRequest="410" HeightRequest="40" FontFamily="Roboto" VerticalTextAlignment="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+        <Label x:Name="L_Github" Text="G I T H U B" TextColor="#000033" TextDecorations="Underline" FontSize="20" FontAttributes="Bold" Margin="0,20,0,0" WidthRequest="410" HeightRequest="40" FontFamily="Roboto" VerticalTextAlignment="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" HorizontalOptions="Center" />
+
+        <Label Text="A U T O R   I K O N" TextColor="#4d2600" FontSize="20" FontAttributes="Bold" Margin="0,40,0,0" WidthRequest="410" HeightRequest="40" FontFamily="Roboto" VerticalTextAlignment="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+        <Label x:Name="L_Smashicons" Text="Smashicons" TextColor="#000033" TextDecorations="Underline" FontSize="30" Margin="0,20,0,0" WidthRequest="410" HeightRequest="40" FontFamily="Roboto" VerticalTextAlignment="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+        <Label x:Name="L_Flaticon" Text="F L A T I C O N" TextColor="#000033" TextDecorations="Underline" FontSize="20" FontAttributes="Bold" Margin="0,20,0,0" WidthRequest="410" HeightRequest="40" FontFamily="Roboto" VerticalTextAlignment="Center" VerticalOptions="Center" HorizontalTextAlignment="Center" HorizontalOptions="Center"/>
+
+    </StackLayout>
+    
+</ContentPage>

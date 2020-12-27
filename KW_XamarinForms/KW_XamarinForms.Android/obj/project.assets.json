@@ -4455,11 +4455,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.Android\\KW_XamarinForms.Android.csproj",
+      "projectUniqueName": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms.Android\\KW_XamarinForms.Android.csproj",
       "projectName": "KW_XamarinForms.Android",
-      "projectPath": "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.Android\\KW_XamarinForms.Android.csproj",
+      "projectPath": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms.Android\\KW_XamarinForms.Android.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.Android\\obj\\",
+      "outputPath": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -4480,8 +4480,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj": {
-              "projectPath": "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj"
+            "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj": {
+              "projectPath": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj"
             }
           }
         }

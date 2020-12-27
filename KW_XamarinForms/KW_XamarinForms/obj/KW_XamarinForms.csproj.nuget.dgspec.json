@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj": {}
+    "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj": {}
   },
   "projects": {
-    "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj": {
+    "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj",
+        "projectUniqueName": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj",
         "projectName": "KW_XamarinForms",
-        "projectPath": "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj",
+        "projectPath": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj",
         "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-        "outputPath": "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms\\obj\\",
+        "outputPath": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

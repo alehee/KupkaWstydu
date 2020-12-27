@@ -5037,11 +5037,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.iOS\\KW_XamarinForms.iOS.csproj",
+      "projectUniqueName": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms.iOS\\KW_XamarinForms.iOS.csproj",
       "projectName": "KW_XamarinForms.iOS",
-      "projectPath": "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.iOS\\KW_XamarinForms.iOS.csproj",
+      "projectPath": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms.iOS\\KW_XamarinForms.iOS.csproj",
       "packagesPath": "C:\\Users\\aleks\\.nuget\\packages\\",
-      "outputPath": "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.iOS\\obj\\",
+      "outputPath": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -5062,8 +5062,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj": {
-              "projectPath": "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj"
+            "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj": {
+              "projectPath": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj"
             }
           }
         }

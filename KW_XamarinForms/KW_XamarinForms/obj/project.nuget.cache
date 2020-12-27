@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "z/FqkCiM9HMwe15V7wKCZXEg45lG7ZKvH4RrLZpfZe2DHfIk+eJvgBk/pbeavKVNLBQ/MssyO4IKKF7ZzxjqgA==",
+  "dgSpecHash": "5/jHPF1KGwBi1gw4gnY9gM6ovwOVgBfuR/kfLEeUZ8LvNFJcJSK/oGfcgdM8ZVcGw8dJdpJ4IoaaZltv+j96JA==",
   "success": true,
-  "projectFilePath": "D:\\Proj_Programming\\Xamarin\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj",
+  "projectFilePath": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms\\KW_XamarinForms.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aleks\\.nuget\\packages\\bouncycastle.netcore\\1.8.3\\bouncycastle.netcore.1.8.3.nupkg.sha512",
     "C:\\Users\\aleks\\.nuget\\packages\\google.protobuf\\3.11.4\\google.protobuf.3.11.4.nupkg.sha512",

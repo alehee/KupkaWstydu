@@ -10,7 +10,7 @@ namespace KW_XamarinForms
     {
         public MySqlConnection getConnection()
         {
-            const string CONNECTION_STRING = "server=aleksanderheese.pl;port=3306;user=u986763087_kwadmin;password=KwP@ssw0rd;database=u986763087_kupkawstydu;";
+            const string CONNECTION_STRING = ConnectionData.CONNECTION_STRING;
             return new MySqlConnection(CONNECTION_STRING);
         }
 

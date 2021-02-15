@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "i0JHVOtXk0Sk2tjhRgHdcNCqZRO9g/9vaxM4y3trlwwJIsSTjxQ0Bqrb1iMfvIwZia2lNHqxGhrS/hW5QiC1Xg==",
+  "dgSpecHash": "NOs+zPpXTynSnywYLppg1biZmGqx2pUSbT0G0lGoJ0WBDHtptxrouXKrRsqY/AaPuLo/mQ6m2LXb1tDyrbGADQ==",
   "success": true,
   "projectFilePath": "D:\\Proj_Programming\\Xamarin\\KupkaWstydu\\KW_XamarinForms\\KW_XamarinForms.iOS\\KW_XamarinForms.iOS.csproj",
   "expectedPackageFiles": [
@@ -51,8 +51,8 @@
     "C:\\Users\\aleks\\.nuget\\packages\\system.threading.timer\\4.0.1\\system.threading.timer.4.0.1.nupkg.sha512",
     "C:\\Users\\aleks\\.nuget\\packages\\system.xml.xmldocument\\4.0.1\\system.xml.xmldocument.4.0.1.nupkg.sha512",
     "C:\\Users\\aleks\\.nuget\\packages\\system.xml.xpath.xmldocument\\4.0.1\\system.xml.xpath.xmldocument.4.0.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
+    "C:\\Users\\aleks\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\aleks\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
   ],
   "logs": []
 }

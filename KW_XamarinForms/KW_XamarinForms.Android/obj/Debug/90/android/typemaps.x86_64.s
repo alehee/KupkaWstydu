@@ -15705,9 +15705,9 @@ map_java_to_managed:
 	.quad	.L.java_type_name.1672
 	.quad	0
 	.quad	.L.java_type_name.1673
-	.quad	.L.managed_type_name.1743
+	.quad	0
 	.quad	.L.java_type_name.1674
-	.quad	.L.managed_type_name.1742
+	.quad	0
 	.quad	.L.java_type_name.1675
 	.quad	.L.managed_type_name.1740
 	.quad	.L.java_type_name.1676
@@ -18443,7 +18443,7 @@ map_java_to_managed:
 	.quad	.L.java_type_name.3041
 	.quad	.L.managed_type_name.3219
 	.quad	.L.java_type_name.3042
-	.quad	.L.managed_type_name.3221
+	.quad	0
 	.quad	.L.java_type_name.3043
 	.quad	0
 	.quad	.L.java_type_name.3044
@@ -19239,7 +19239,7 @@ map_java_to_managed:
 	.quad	.L.java_type_name.3439
 	.quad	.L.managed_type_name.3673
 	.quad	.L.java_type_name.3440
-	.quad	0
+	.quad	.L.managed_type_name.3672
 	.quad	.L.java_type_name.3441
 	.quad	.L.managed_type_name.3665
 	.quad	.L.java_type_name.3442
@@ -19263,7 +19263,7 @@ map_java_to_managed:
 	.quad	.L.java_type_name.3451
 	.quad	0
 	.quad	.L.java_type_name.3452
-	.quad	.L.managed_type_name.3681
+	.quad	0
 	.quad	.L.java_type_name.3453
 	.quad	.L.managed_type_name.3685
 	.quad	.L.java_type_name.3454
@@ -19271,9 +19271,9 @@ map_java_to_managed:
 	.quad	.L.java_type_name.3455
 	.quad	.L.managed_type_name.3684
 	.quad	.L.java_type_name.3456
-	.quad	.L.managed_type_name.3686
+	.quad	0
 	.quad	.L.java_type_name.3457
-	.quad	.L.managed_type_name.3688
+	.quad	0
 	.quad	.L.java_type_name.3458
 	.quad	0
 	.quad	.L.java_type_name.3459
@@ -21909,7 +21909,7 @@ map_java_to_managed:
 	.quad	.L.java_type_name.4774
 	.quad	.L.managed_type_name.4844
 	.quad	.L.java_type_name.4775
-	.quad	0
+	.quad	.L.managed_type_name.2392
 	.quad	.L.java_type_name.4776
 	.quad	.L.managed_type_name.2394
 	.quad	.L.java_type_name.4777
@@ -21935,7 +21935,7 @@ map_java_to_managed:
 	.quad	.L.java_type_name.4787
 	.quad	.L.managed_type_name.2388
 	.quad	.L.java_type_name.4788
-	.quad	0
+	.quad	.L.managed_type_name.2387
 	.quad	.L.java_type_name.4789
 	.quad	.L.managed_type_name.4853
 	.quad	.L.java_type_name.4790
@@ -21995,11 +21995,11 @@ map_java_to_managed:
 	.quad	.L.java_type_name.4817
 	.quad	.L.managed_type_name.2391
 	.quad	.L.java_type_name.4818
-	.quad	0
+	.quad	.L.managed_type_name.2390
 	.quad	.L.java_type_name.4819
 	.quad	.L.managed_type_name.2389
 	.quad	.L.java_type_name.4820
-	.quad	0
+	.quad	.L.managed_type_name.2398
 	.quad	.L.java_type_name.4821
 	.quad	.L.managed_type_name.2397
 	.quad	.L.java_type_name.4822

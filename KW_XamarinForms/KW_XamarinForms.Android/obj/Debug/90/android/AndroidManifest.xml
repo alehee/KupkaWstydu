@@ -6,7 +6,7 @@
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
   <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
   <uses-permission android:name="android.permission.INTERNET" />
-  <application android:label="Kupka Wstydu" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/ico" android:debuggable="true">
+  <application android:label="Kupka Wstydu" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/ico" android:debuggable="true" android:extractNativeLibs="true">
     <activity android:configChanges="orientation|screenSize" android:icon="@drawable/ico" android:label="Kupka Wstydu" android:theme="@style/MainTheme" android:name="crc64804d0611a3ce01d1.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
